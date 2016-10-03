@@ -112,7 +112,7 @@ else:
 // Add the g-recaptcha tag to the form you want to include the reCAPTCHA element
     ?>
     <p>Complete the reCAPTCHA then submit the form.</p>
-    <form action="/" method="post">
+    <form action="" method="post">
         <fieldset>
             <legend>An example form</legend>
             <p>Example input A: <input type="text" name="ex-a" value="foo"></p>
